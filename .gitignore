@@ -1,26 +1,26 @@
 # Don't archive compilation results
-*.exe
-*.jar
-*.class
-*.jnilib
-*.dll
+# *.exe
+# *.jar
+# *.class
+# *.jnilib
+# *.dll
 
 # Mac 
-.DS_Store
+# .DS_Store
 
 # Skip all generated files.
 /build.number
 # /build/
 /dist/
 /eg/
-/release/
+# /release/
 /src/bridgedesigner/help/
 
 # Class files for DetectJVM.java
 /nsis/classes/
 
 # Various build locations
-/mac/Bridge Designer 2014 (2nd Ed) Installation Image/Bridge Designer 2014 (2nd Ed).app/
+# /mac/Bridge Designer 2014 (2nd Ed) Installation Image/Bridge Designer 2014 (2nd Ed).app/
 /mac/lib/
 /jre/
 /l4j/wpbd.xml
