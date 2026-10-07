@@ -15,7 +15,7 @@ build/universal/BridgeDesigner-2016-Universal.jar
 Install a Java runtime, then run:
 
 ```sh
-java -jar BridgeDesigner-2016-Universal.jar
+java -jar BridgeDesigner-Universal.jar
 ```
 
 The JAR includes its Java dependencies and native libraries; no separate
