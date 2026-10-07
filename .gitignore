@@ -10,7 +10,7 @@
 
 # Skip all generated files.
 /build.number
-/build/
+# /build/
 /dist/
 /eg/
 /release/
